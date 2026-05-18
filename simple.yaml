@@ -29,8 +29,6 @@ components:
               readOnly: true
             name:
               type: string
-          required:
-            - name
 paths:
   /api/v1.0/groups:
     post:
